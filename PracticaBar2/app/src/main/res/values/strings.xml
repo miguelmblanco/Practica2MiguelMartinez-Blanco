@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bar Bill</string>
+    <string name="hint_camarero">Waiter (min 3 letters)</string>
+    <string name="hint_total">Bill total</string>
+    <string name="propina">Include tip</string>
+    <string name="porcentaje">Tip: %1$d%%</string>
+    <string name="efectivo">Cash</string>
+    <string name="tarjeta">Card</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="resultado">Total: %1$.2f €\nPayment: %2$s\nService: %3$d stars</string>
+    <string name="error_vacio">You forgot to enter the bill total</string>
+    <string name="error_formato">The total is not a valid number</string>
+    <string name="error_minimo">The total must be greater than 0</string>
+</resources>
